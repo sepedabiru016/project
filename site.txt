@@ -1,1 +1,2 @@
-udintogel139.com:din245:500
+udintogel139.com:din245:100:loget1.txt
+udintogel139.com:din245:100:loget2.txt
